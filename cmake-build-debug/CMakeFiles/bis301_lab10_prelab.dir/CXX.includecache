@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/junseokpark/CLionProjects/bis301-lab10-prelab/main.cpp
+iostream
+-
+map
+-
+list
+-
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+math.h
+-
+

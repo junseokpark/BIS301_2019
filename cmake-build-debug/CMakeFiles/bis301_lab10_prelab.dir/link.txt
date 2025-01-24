@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/bis301_lab10_prelab.dir/main.cpp.o  -o bis301_lab10_prelab 
